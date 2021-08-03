@@ -1,0 +1,22 @@
+{
+  "name": "vue-material-vertical-stepper",
+  "keywords": [
+    "vue-material",
+    "material-design",
+    "vue"
+  ],
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "latest",
+    "vue-material": "latest"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "latest",
+    "css-loader": "^6.2.0",
+    "sass-loader": "^12.1.0",
+    "vue-template-compiler": "latest"
+  }
+}
